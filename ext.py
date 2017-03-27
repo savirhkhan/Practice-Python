@@ -12,5 +12,5 @@ class teacher(person):
     def __str__(self):
         return(person.__str__(self)+"sub: {}".format(sub))
     
-        
+print("say something")        
      
