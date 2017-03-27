@@ -1,10 +1,11 @@
-password = "savir"
 
-for i in range(3):
-    j = 3
-    psw = input("please Enter the Password: ")
-    if(psw==password):
-        print("Welcome savir ")
-        break
-    else:
-        print("Wrong Password, Attempt left:", j-1)
+import time
+
+run = input("Start?: ")
+seconds = 0
+if run is 'yes':
+    while seconds != 10:
+        print('>',seconds)
+        time.sleep(1)
+        seconds +=1
+
