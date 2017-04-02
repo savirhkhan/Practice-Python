@@ -1,2 +1,3 @@
 # Practice-Python
-I have created some programs in pythons for practice . Feel free to make the modifications. 
+There are some basic Python to do some basic task, I'll keep on adding more program in this repo. Feel free 
+for any suggesting and appropriate modification.
